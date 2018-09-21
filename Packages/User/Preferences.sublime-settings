@@ -1,6 +1,9 @@
 {
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/CocoCola/colorscheme/Coco Cola.tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"theme": "ayu-mirage.sublime-theme"
 }

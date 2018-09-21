@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	"show_panel_on_save": "window",
+	"paths": {
+        "osx": [
+        	"${project}/node_modules/.bin/",
+            "${directory}/node_modules/.bin/"
+        ],
+    },
+}

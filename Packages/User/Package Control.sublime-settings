@@ -5,7 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"ayu",
+		"Git",
+		"JavaScript Completions",
+		"JavaScript Enhancements",
+		"JsPrettier",
 		"Naomi",
-		"SublimeLinter"
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"TerminalView"
 	]
 }
