@@ -7,3 +7,6 @@ Packages/*
 !Packages/User/
 Packages/User/*
 !Packages/User/*sublime-settings*
+!Packages/CocoCola/
+!Packages/CocoCola/colorscheme/
+!Packages/CocoCola/colorscheme/Coco\ Cola.tmTheme
