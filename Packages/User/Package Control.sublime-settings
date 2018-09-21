@@ -9,10 +9,11 @@
 		"ayu",
 		"Git",
 		"GitHubinator",
-		"JavaScript Completions",
 		"JavaScript Enhancements",
 		"JsPrettier",
 		"Naomi",
+		"Package Control",
+		"PlainNotes",
 		"ProjectManager",
 		"SideBarEnhancements",
 		"SublimeGit",
@@ -21,5 +22,9 @@
 		"SublimeLinter-eslint",
 		"Terminal",
 		"TerminalView"
+	],
+	"repositories":
+	[
+		"https://github.com/rocketnova/PlainNotes/tree/other_themes"
 	]
 }
