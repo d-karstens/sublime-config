@@ -5,5 +5,8 @@
 	[
 		"Vintage"
 	],
-	"theme": "ayu-mirage.sublime-theme"
+	"theme": "ayu-mirage.sublime-theme",
+	"index_files": false,
+	"translate_tabs_to_spaces": true,
+  "tab_size": 2,
 }
