@@ -23,6 +23,7 @@
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
+		"TabsExtra",
 		"Terminal",
 		"TerminalView"
 	],
