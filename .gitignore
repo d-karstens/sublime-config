@@ -10,3 +10,6 @@ Packages/User/*
 !Packages/CocoCola/
 !Packages/CocoCola/colorscheme/
 !Packages/CocoCola/colorscheme/Coco\ Cola.tmTheme
+!Packages/XML/
+!Packages/XML/Snippets/
+!Packages/XML/Snippets/long-tag.sublime-snippet
