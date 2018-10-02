@@ -5,7 +5,14 @@
 	[
 		"Vintage"
 	],
-	"index_files": false,
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"dist",
+		"node_modules",
+		"vendor"
+	],
+	"index_files": true,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true
