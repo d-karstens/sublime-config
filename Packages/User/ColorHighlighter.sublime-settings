@@ -1,0 +1,6 @@
+{
+    "icon_factory": {
+      "convert_command": "/usr/local/bin/convert",
+      "convert_timeout": 5
+  },
+}
