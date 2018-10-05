@@ -12,7 +12,7 @@
 		"node_modules",
 		"vendor"
 	],
-	"index_files": true,
+	"index_files": false,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true
