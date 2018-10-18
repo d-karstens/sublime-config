@@ -29,14 +29,15 @@
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
 		"SublimeLinter-eslint",
+		"SublimeLinter-stylelint",
 		"TabsExtra",
 		"Terminal",
 		"TerminalView"
 	],
 	"repositories":
 	[
-		"https://github.com/rocketnova/PlainNotes/tree/other_themes"
+		"https://github.com/rocketnova/PlainNotes/tree/other_themes",
+		"https://github.com/titoBouzout/Tag"
 	]
 }
