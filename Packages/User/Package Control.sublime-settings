@@ -12,6 +12,7 @@
 		"Craft-Twig",
 		"Emmet",
 		"FileBrowser",
+		"FileDiffs",
 		"Find++",
 		"Git",
 		"Git Conflict Resolver",
@@ -27,14 +28,18 @@
 		"PlainNotes",
 		"ProjectManager",
 		"Sass",
+		"Scratchpad",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
+		"SublimeLinter-tslint",
 		"TabsExtra",
 		"Terminal",
-		"TerminalView"
+		"TerminalView",
+		"TypeScript",
+		"TypeScript Syntax"
 	],
 	"repositories":
 	[
