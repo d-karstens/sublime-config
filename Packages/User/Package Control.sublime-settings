@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"ayu",
 		"Babel",
 		"Color Highlighter",
@@ -13,7 +14,6 @@
 		"Emmet",
 		"FileBrowser",
 		"FileDiffs",
-		"FileIcons",
 		"Find++",
 		"Git",
 		"Git Conflict Resolver",
