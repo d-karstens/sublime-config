@@ -6,10 +6,10 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Autoprefixer",
 		"ayu",
 		"Babel",
 		"Color Highlighter",
-		"ColorSchemeEditor",
 		"Craft-Twig",
 		"Emmet",
 		"FileDiffs",
@@ -30,7 +30,6 @@
 		"PackageResourceViewer",
 		"PlainNotes",
 		"ProjectManager",
-		"Rainbowth",
 		"Sass",
 		"Scratchpad",
 		"SideBarEnhancements",
