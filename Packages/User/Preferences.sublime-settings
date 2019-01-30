@@ -8,6 +8,7 @@
 	],
 	"index_exclude_patterns":
 	[
+		".github"
 		"*.log",
 		"dist",
 		"node_modules",
@@ -16,5 +17,9 @@
 	"index_files": false,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"folder_exclude_patterns": [
+		".github"
+	]
+	"spell_check": true,
 }
