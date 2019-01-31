@@ -3,23 +3,7 @@
 	"color_scheme": "Packages/CocoCola/colorscheme/Coco Cola.tmTheme",
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
-	"index_exclude_patterns":
-	[
-		".github"
-		"*.log",
-		"dist",
-		"node_modules",
-		"vendor"
-	],
-	"index_files": false,
-	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"folder_exclude_patterns": [
-		".github"
-	]
-	"spell_check": true,
+	"theme": "ayu-mirage.sublime-theme"
 }
