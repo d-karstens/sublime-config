@@ -1,4 +1,23 @@
 {
+	"binary_file_patterns":
+	[
+		"dist/**",
+		"node_modules/**",
+		"vendor/**",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/CocoCola/colorscheme/Coco Cola.tmTheme",
 	"font_size": 12,
