@@ -20,7 +20,12 @@
 		"*.zip"
 	],
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/CocoCola/colorscheme/Coco Cola.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Coco Cola.tmTheme",
+	"font_face": "Fira Code Retina",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
 	"font_size": 12,
 	"ignored_packages":
 	[
