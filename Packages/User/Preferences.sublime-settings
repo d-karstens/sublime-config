@@ -1,6 +1,7 @@
 {
 	"binary_file_patterns":
 	[
+		"styles.css",
 		"dist/**",
 		"node_modules/**",
 		"vendor/**",
