@@ -23,6 +23,7 @@
 		"MJML-syntax",
 		"Naomi",
 		"Nix",
+		"OpenHere",
 		"Package Control",
 		"PackageResourceViewer",
 		"PlainNotes",
@@ -35,7 +36,6 @@
 		"SublimeLinter-eslint",
 		"SublimeLinter-stylelint",
 		"TabsExtra",
-		"Terminal",
 		"TerminalView",
 		"TypeScript",
 		"TypeScript Syntax"
